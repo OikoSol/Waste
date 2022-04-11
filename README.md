@@ -3,7 +3,7 @@ OikoSol Waste Technologies
 
 # Instructions
 
-* [Vermicomposter v.1.0](https://github.com/OikoSol/Food/blob/master/Media%20Bed%20Aquaponics%20v.1.0.pdf)
+* [Vermicomposter v.1.0](https://github.com/OikoSol/Waste/blob/master/Vermicomposterb1.0.pdf)
 
 A Vermicomposter is a a method of recycling the nutrients in non-fatty kitchen waste by the use of soil bacteria and composting worms, which consume the waste and produce a high nutrient liquid for plant watering, worm castings and humus, a soil-like material that can be used as soil amendment in gardening or for seeding.
 
